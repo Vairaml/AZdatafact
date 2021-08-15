@@ -27,7 +27,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy data2 update to prod12",
+						"name": "Copy data2 update to prod12 vairam",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
